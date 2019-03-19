@@ -15,12 +15,14 @@ brew 'terraform'
 
 # Apps
 cask 'docker'
+cask 'dropbox'
 cask 'firefox'
 cask 'google-chrome'
 cask 'iterm2'
+cask 'karabiner-elements'
 cask 'postman'
 cask 'sequel-pro'
 cask 'slack'
 cask 'spotify'
 cask 'visual-studio-code'
-
+cask 'zoomus'
