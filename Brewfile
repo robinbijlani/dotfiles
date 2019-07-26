@@ -5,21 +5,25 @@ tap 'homebrew/bundle'
 brew 'awscli'
 brew 'bat'
 brew 'coreutils' # Those that come with macOS are outdated
+brew 'fzf'
 brew 'git'
+brew 'tldr'
+brew 'tree'
 brew 'zsh'
 
 # Development
 brew 'go'
 brew 'nodenv'
-brew 'terraform'
 
 # Apps
+cask 'boostnote'
+cask 'brave-browser'
 cask 'docker'
 cask 'dropbox'
-cask 'firefox'
-cask 'google-chrome'
+cask 'fork'
 cask 'iterm2'
 cask 'karabiner-elements'
+cask 'launchbar'
 cask 'postman'
 cask 'sequel-pro'
 cask 'slack'
