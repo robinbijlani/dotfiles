@@ -5,6 +5,7 @@ tap 'homebrew/bundle'
 brew 'awscli'
 brew 'bat'
 brew 'coreutils' # Those that come with macOS are outdated
+brew 'fasd'
 brew 'fzf'
 brew 'git'
 brew 'tldr'
