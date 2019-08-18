@@ -15,6 +15,7 @@ alias sudo='sudo '
 alias cat='bat'
 alias help='tldr'
 alias top='htop'
+alias du='ncdu --color dark -rr -x --exclude .git --exclude node_modules'
 
 
 # Shortcuts
@@ -40,9 +41,6 @@ alias ld="ls -lF ${colorflag} | grep --color=never '^d'"
 
 # Always use color output for `ls`
 alias ls="command ls ${colorflag}"
-
-# List aliases
-aliases = config --get-regexp alias
 
 
 # Get macOS Software Updates, and update Homebrew, npm, and their installed packages
