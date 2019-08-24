@@ -6,17 +6,15 @@ alias ...='cd ../..'
 alias ....='cd ../../..'
 alias .....='cd ../../../..'
 
-
 # Enable aliases to be sudo’ed
 alias sudo='sudo '
-
 
 # Upgraded commands
 alias cat='bat'
 alias help='tldr'
 alias top='htop'
 alias du='ncdu --color dark -rr -x --exclude .git --exclude node_modules'
-
+alias ping='prettyping --nolegend'
 
 # Shortcuts
 alias g='git'
@@ -42,6 +40,5 @@ alias ld="ls -lF ${colorflag} | grep --color=never '^d'"
 # Always use color output for `ls`
 alias ls="command ls ${colorflag}"
 
-
-# Get macOS Software Updates, and update Homebrew, npm, and their installed packages
+# Get MacOS Software Updates, and update Homebrew, npm, and their installed packages
 alias update='sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup; npm install npm -g; npm update -g'
