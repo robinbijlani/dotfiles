@@ -2,6 +2,7 @@
 tap 'homebrew/bundle'
 
 # Binaries
+brew 'antibody'
 brew 'awscli'
 brew 'bat'
 brew 'coreutils' # Those that come with macOS are outdated

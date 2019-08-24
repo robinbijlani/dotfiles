@@ -1,0 +1,7 @@
+mafredri/zsh-async
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+
+# These should be last
+sindresorhus/pure
+zdharma/fast-syntax-highlighting
