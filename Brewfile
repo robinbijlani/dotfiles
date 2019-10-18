@@ -21,7 +21,7 @@ brew 'zsh'
 
 # Development
 brew 'go'
-brew 'nodenv'
+brew 'nvm'
 
 # Apps
 cask 'boostnote'
