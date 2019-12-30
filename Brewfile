@@ -1,5 +1,6 @@
 # Taps
 tap 'homebrew/bundle'
+tap 'homebrew/cask-drivers'
 
 # Binaries
 brew 'antibody'
@@ -35,6 +36,7 @@ cask 'karabiner-elements'
 cask 'launchbar'
 cask 'licecap'
 cask 'postman'
+cask 'qmk-toolbox'
 cask 'sequel-pro'
 cask 'slack'
 cask 'spotify'
