@@ -6,6 +6,7 @@ tap 'homebrew/cask-drivers'
 brew 'antibody'
 brew 'awscli'
 brew 'bat'
+brew 'broot'
 brew 'coreutils' # Those that come with macOS are outdated
 brew 'fasd'
 brew 'fzf'
