@@ -25,10 +25,12 @@ brew 'go'
 brew 'nvm'
 
 # Apps
+cask 'authy'
 cask 'boostnote'
 cask 'brave-browser'
 cask 'docker'
 cask 'dropbox'
+cask 'firefox'
 cask 'flux'
 cask 'fork'
 cask 'iterm2'
