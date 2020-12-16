@@ -18,3 +18,6 @@ source .macos
 # Install Snazzy theme for Iterm
 curl -L https://github.com/sindresorhus/iterm2-snazzy/raw/master/Snazzy.itermcolors > /tmp/Snazzy.itermcolors
 open /tmp/Snazzy.itermcolors
+
+# Install Snazzy theme for Kitty
+curl -o ~/.config/kitty/snazzy.conf https://raw.githubusercontent.com/connorholyday/kitty-snazzy/master/snazzy.conf
