@@ -1,6 +1,7 @@
 # Taps
 tap 'homebrew/bundle'
 tap 'homebrew/cask-drivers'
+tap 'jason0x43/neovim-nightly'
 
 # Binaries
 brew 'antibody'
@@ -13,7 +14,6 @@ brew 'git'
 brew 'htop'
 brew 'jq'
 brew 'ncdu'
-brew 'neovim'
 brew 'pdsh'
 brew 'prettyping'
 brew 'ripgrep'
@@ -39,6 +39,7 @@ cask 'karabiner-elements'
 cask 'kitty'
 cask 'launchbar'
 cask 'licecap'
+cask 'neovim-nightly'
 cask 'postman'
 cask 'qmk-toolbox'
 cask 'quitter'
