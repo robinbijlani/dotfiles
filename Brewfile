@@ -18,6 +18,7 @@ brew 'pdsh'
 brew 'prettyping'
 brew 'ripgrep'
 brew 'tldr'
+brew 'tmux'
 brew 'tree'
 brew 'zsh'
 
@@ -26,6 +27,7 @@ brew 'go'
 brew 'nvm'
 
 # Apps
+cask 'alacritty'
 cask 'authy'
 cask 'boostnote'
 cask 'brave-browser'
