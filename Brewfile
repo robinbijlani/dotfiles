@@ -39,6 +39,7 @@ cask 'dropbox'
 cask 'firefox'
 cask 'flux'
 cask 'fork'
+cask 'hammerspoon'
 cask 'iterm2'
 cask 'karabiner-elements'
 cask 'kitty'
@@ -58,6 +59,10 @@ cask 'visual-studio-code'
 cask 'zoom'
 
 # Fonts
+cask 'font-fira-code'
+cask 'font-fira-code-nerd-font'
+cask 'font-fira-mono'
+cask 'font-fira-mono-nerd-font'
 cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 
