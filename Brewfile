@@ -1,14 +1,11 @@
 # Taps
 tap 'homebrew/bundle'
-tap 'homebrew/cask-drivers'
 tap 'homebrew/cask-fonts'
 
 # Binaries
-brew 'antibody'
 brew 'awscli'
 brew 'bat'
 brew 'coreutils'
-brew 'fasd'
 brew 'fzf'
 brew 'git'
 brew 'htop'
