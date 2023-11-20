@@ -8,9 +8,6 @@ setopt hist_reduce_blanks   # Remove superfluous blanks from history items
 setopt inc_append_history   # Save history entries as soon as they are entered
 setopt share_history        # Share history between different instances of the shell
 
-# zsh setup via Antibody
-source ~/.zsh_plugins.sh
-
 # nvm
 export NVM_DIR="$HOME/.nvm"
 [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
