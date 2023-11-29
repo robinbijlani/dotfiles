@@ -1,18 +1,19 @@
-# Taps
 tap 'homebrew/bundle'
 tap 'homebrew/cask-fonts'
 
-# Binaries
 brew 'awscli'
 brew 'bat'
 brew 'coreutils'
 brew 'fzf'
 brew 'git'
+brew 'go'
 brew 'htop'
 brew 'jq'
+brew 'kubie'
 brew 'mas'
 brew 'neovim'
 brew 'ncdu'
+brew 'nvm'
 brew 'pdsh'
 brew 'prettyping'
 brew 'ripgrep'
@@ -21,11 +22,6 @@ brew 'tmux'
 brew 'tree'
 brew 'zsh'
 
-# Development
-brew 'go'
-brew 'nvm'
-
-# Apps
 cask 'arc'
 cask 'authy'
 cask 'dbeaver-community'
@@ -51,7 +47,6 @@ cask 'visual-studio-code'
 cask 'warp'
 cask 'zoom'
 
-# Fonts
 cask 'font-fira-code'
 cask 'font-fira-code-nerd-font'
 cask 'font-fira-mono'
@@ -59,7 +54,6 @@ cask 'font-fira-mono-nerd-font'
 cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 
-# Mac App Store
 mas 'Numbers', id: 409203825
 mas 'StatusClock', id: 552792489
 mas 'Xcode', id: 497799835
