@@ -20,6 +20,7 @@ brew 'ripgrep'
 brew 'tldr'
 brew 'tmux'
 brew 'tree'
+brew 'zoxide'
 brew 'zsh'
 
 cask 'arc'
