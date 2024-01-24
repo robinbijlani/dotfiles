@@ -36,4 +36,4 @@ load-nvmrc
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-eval "$(fasd --init auto)"
+eval "$(zoxide init zsh)"
