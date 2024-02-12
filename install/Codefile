@@ -1,6 +1,12 @@
 asvetliakov.vscode-neovim
+christian-kohler.npm-intellisense
 dbaeumer.vscode-eslint
 eamodio.gitlens
-EditorConfig.EditorConfig
+editorconfig.editorconfig
 esbenp.prettier-vscode
+github.copilot
+github.copilot-chat
+mikestead.dotenv
 ms-vscode.vscode-typescript-next
+oouo-diogo-perdigao.docthis
+redhat.vscode-yaml
